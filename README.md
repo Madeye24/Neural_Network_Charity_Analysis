@@ -54,5 +54,5 @@ What steps did you take to try and increase model performance?
 
 ## Summary:
 Different methods were used to reach higher accuracy for the model, however the target wasn't achieved.
-Further exploration can be done using Rain forest model with more numbers of epochs.
+Further exploration can be done using Rain forest model with more numbers of epoch as the Rain forest model has lesser outliers.
 
